@@ -5,7 +5,7 @@
 
 *   非常接近参考数据。
 
-![experiment-results](images\results.png)
+![experiment-results](images/results.png)
 
 ## 使用说明
 
