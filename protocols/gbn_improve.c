@@ -1,6 +1,5 @@
  #include<stdio.h>
  #include<string.h>
- #include<Winsock2.h>
  #include"protocol.h"
  #include"datalink.h"
 
