@@ -9,4 +9,4 @@
 
 ## 使用说明
 
-将protocols中的.c文件代码替换掉source_code下的datalink.c中的代码即可运行。
+将protocols中的.c文件代码替换掉source_code下的datalink.c中的代码即可编译运行。
